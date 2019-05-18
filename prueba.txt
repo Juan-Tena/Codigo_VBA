@@ -1,1 +1,2 @@
 Esto es una prueba de fichero creado con el botónNEW
+En este caso escribimos un segundo texto inspirador
